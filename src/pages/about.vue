@@ -1,3 +1,3 @@
 <template>
-  <p>HELLO IMA aBOUT</p>
+  <p>HELLO!! I`m a ABOUT Page!</p>
 </template>
