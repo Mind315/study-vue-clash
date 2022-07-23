@@ -6,7 +6,7 @@ export const site = {
   home: process.dev ? 'http://localhost' : 'httttttttttttp://ru.ru'
 }
 export const app = {
-  title: 'TEmplate'
+  title: 'Test Clash App'
 }
 
 export const links = [
