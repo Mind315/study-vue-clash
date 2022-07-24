@@ -55,8 +55,11 @@ export default {
         300: {
           itemsToShow: 1
         },
-        800: {
+        700: {
           itemsToShow: 2
+        },
+        1200: {
+          itemsToShow: 3
         }
       }
     }
