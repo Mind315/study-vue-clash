@@ -1,5 +1,5 @@
 module.exports = {
-  publicPath: production === true ? '' : '/',
+  publicPath: '/study-vue-clash/',
   productionSourceMap: false,
   assetsDir: 'assets'
 }
