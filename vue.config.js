@@ -1,5 +1,7 @@
+const production = true
+
 module.exports = {
-  publicPath: '/',
+  publicPath: production === true ? '' : '/',
   productionSourceMap: false,
-  assetsDir: 'assets'
-}
+  assetsDir: "assets",
+};
