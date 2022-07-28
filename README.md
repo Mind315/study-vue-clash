@@ -1,3 +1,8 @@
+просмотр build версии 
+
+https://mind315.github.io/study-vue-clash/dist/index.html#/
+<hr>
+
 <h1>В этом приложении:</h1>
     <ul>
       <li>Vue-Router в связке Vue.js 3</li>
